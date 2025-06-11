@@ -26,3 +26,12 @@ Creating new branch with **`-b`** option
 Command: `git checkout -b feature` creates new feature branch.
 
 
+## Git Rest
+
+`git log --graph`
+
+Command: `git reset HEAD~1`
+Reverting back to 2 commit.
+
+Command: `git reset <commitHash>`
+Command: `git reset --hard <commitHash>`
